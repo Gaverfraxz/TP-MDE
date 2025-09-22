@@ -1,6 +1,7 @@
 # Auth
 **/credentials.json
 **/token.json
+.env
 
 # Python
 venv/
