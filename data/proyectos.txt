@@ -1,0 +1,1 @@
+Los proyectos tienen las siguientes limitaciones. Deben correr en un única PC y no deben ser hosteados. Solo pueden acceder a internet para APIs. No se tiene que tener ninguna consideración de seguridad. No se usan bases de datos SQL sino JSON. 
