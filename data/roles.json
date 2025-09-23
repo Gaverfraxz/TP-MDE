@@ -1,5 +1,5 @@
 {
-  "Backend": "",
+  "Backend": "El trabajo del rol de backend es desarrollar una aplicación usando NodeJS encargada de persistir datos. Estos datos deben ser estructurados en forma de archivos JSON. En caso de existir un frontend en el proyecto, ambos programas se deben comunicar usando SoqueTIC, una herramienta de comunicación en tiempo real desarrollada por el equipo docente. En caso de existir un dispositivo de hardware, el backend debe comunicarse con este usando comunicación Serial, usando la librería SerialPort. Si el poryecto tiene lógica compleja como filtrado de datos, llamados a APIs, IA para juegos como árboles decisorios,etc., esta lógica debe ser implementada en el backend.",
   "Frontend": "",
   "TIMI": "",
   "Hardware": "",
